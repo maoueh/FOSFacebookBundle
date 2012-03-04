@@ -1,0 +1,20 @@
+{
+    "name": "maoueh/fos-facebook-bundle",
+    "type": "library",
+	"require": {
+		"facebook/facebook-php-sdk":  "3.1.1"
+    },
+	"repositories": {
+        "facebook/facebook-php-sdk": {
+            "type": "package",
+            "package": {
+                "name": "facebook/facebook-php-sdk",
+                "version": "3.1.1",
+                "dist": {
+                    "url": "https://github.com/facebook/facebook-php-sdk/zipball/v3.1.1",
+                    "type": "zip"
+                }
+            }
+        }
+    }
+}
