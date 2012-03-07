@@ -1,6 +1,7 @@
 {
     "name": "maoueh/fos-facebook-bundle",
     "type": "library",
+	"description": "Do NOT use it yet, this package has an issue right now",
 	"require": {
 		"facebook/facebook-php-sdk":  "3.1.1"
     },
