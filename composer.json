@@ -1,7 +1,7 @@
 {
     "name": "maoueh/fos-facebook-bundle",
     "type": "library",
-	"description": "Do NOT use it yet, this package has an issue right now",
+	"description": "Please, use the official package for this bundle that can be found at this address: http://packagist.org/packages/friendsofsymfony/facebook-bundle. This package will not be maintained anymore and can be safely deleted by packagist.org administrator",
 	"require": {
 		"facebook/facebook-php-sdk":  "3.1.1"
     },
